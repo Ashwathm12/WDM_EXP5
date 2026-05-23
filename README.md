@@ -120,17 +120,20 @@ if __name__ == "__main__":
 Python and language
 ```
 
-![alt text](output/query1.png)
+<img width="1304" height="605" alt="image" src="https://github.com/user-attachments/assets/3b704b7e-6d07-41b4-98bf-ad7c8ae83cac" />
+
 
 ```
 not retrieval
 ```
-![alt text](output/query2.png)
+<img width="1280" height="605" alt="image" src="https://github.com/user-attachments/assets/be800db5-04d8-4391-8a6b-3389fbddcb5e" />
+
 
 ```
 python or information
 ```
-![alt text](output/query3.png)
+<img width="1320" height="596" alt="image" src="https://github.com/user-attachments/assets/20b14846-f3e5-4091-836d-99d045102407" />
+
 
 
 ### Result:
